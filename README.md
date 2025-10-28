@@ -1,1 +1,1 @@
-A repo on AI coursework.
+A repo on AI coursework and research.
